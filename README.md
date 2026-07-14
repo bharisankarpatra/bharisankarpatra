@@ -1,83 +1,80 @@
 # Hi, I'm B. Harisankar Patra 👋
 
-### Senior Lead Software Engineer
+### Senior Lead Software Engineer | Flutter & Dart | Enterprise Mobile | Clean Architecture
 
-Flutter • Enterprise Mobile • Clean Architecture • Technical Leadership
+Building secure, scalable, and high-performance mobile applications with a strong focus on architecture, engineering excellence, and technical leadership.
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior Lead Software Engineer with 10+ years of experience in Mobile Application Development and 6+ years specializing in Flutter and Dart.
+I'm a Senior Lead Software Engineer with **10+ years of experience** in Mobile Application Development and **6+ years specializing in Flutter & Dart**.
 
-I enjoy designing secure, scalable, and maintainable enterprise mobile applications using Clean Architecture, BLoC, SOLID principles, and modern engineering practices.
+I specialize in building enterprise-grade Android and iOS applications using **Clean Architecture**, **Feature-Based Modular Design**, **BLoC/Cubit**, and **SOLID principles**.
 
-Currently working on enterprise banking solutions while continuously exploring Flutter architecture, performance optimization, security, and AI-assisted development.
+My experience spans Banking, Insurance, Transportation, and SaaS domains, where I focus on scalable architecture, mobile security, application performance, CI/CD, and mentoring engineering teams.
 
 ---
 
+
 ## 💼 Experience
 
-- 10+ Years in Mobile Application Development
-- 6+ Years building Enterprise Flutter Applications
-- Enterprise Banking
-- Insurance
-- Transportation
-- SaaS
+| Area | Experience |
+|------|------------|
+| Mobile Development | 10+ Years |
+| Flutter & Dart | 6+ Years |
+| Team Leadership | 12+ Engineers |
+| Domains | Banking • Insurance • Transportation • SaaS |
 
 ---
 
 ## 🚀 Technical Expertise
 
-• Flutter
-• Dart
-• Clean Architecture
-• BLoC
-• Cubit
-• Mobile Security
-• REST APIs
-• CI/CD
-• Jenkins
-• Fastlane
-• Firebase
-• Performance Optimization
+Flutter • Dart • BLoC • Clean Architecture • REST APIs • Firebase • Jenkins • Git • SonarQube • Fastlane • Android • CI/CD • Mobile Security
 
 ---
 
 ## 🏆 Certifications
 
-- GenAI Assisted Engineer
-- AWS Partner Accreditation
-- Flutter Technical Competency
-- Postman 30 Days Challenge
+🏆 GenAI Assisted Engineer – Virtusa
+
+🏆 AWS Partner Sales Accreditation – AWS
+
+🏆 Flutter Technical Competency – TestDome
+
+🏆 30 Days of Postman – Postman
 
 ---
 
 ## 🎤 Community
 
-- Industry Speaker
-- Flutter Workshops
-- Technical Mentoring
-- Knowledge Sharing
+- Industry Speaker for Flutter & Mobile Application Development Workshops
+- Technical Mentor for aspiring mobile developers
+- Passionate about knowledge sharing and engineering best practices
+
+
+## 📌 Featured Projects
+
+Coming Soon...
+
+- Enterprise Flutter Starter
+- Flutter Clean Architecture
+- Flutter Security Demo
+- Flutter Performance Toolkit
 
 ---
+## 🚀 Current Focus
 
-## 🌱 Currently Learning
-
-- AI for Mobile Development
-- Agentic AI
-- LLM Integration
-- Flutter Performance
-- Enterprise Architecture
+- Enterprise Flutter Architecture
+- AI-powered Mobile Applications
+- Agentic AI & LLM Integration
+- Mobile Security
+- Performance Engineering
 
 ---
 
 ## 📫 Connect
 
-LinkedIn
-
-Email
-
-Portfolio (Coming Soon)
-
-GitHub
+- 💼 LinkedIn: https://linkedin.com/in/b-harisankar-patra
+- 📧 Email: hpatra22@gmail.com
+- 🌐 Portfolio: Coming Soon
