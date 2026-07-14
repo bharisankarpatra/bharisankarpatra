@@ -8,7 +8,7 @@ Flutter • Enterprise Mobile • Clean Architecture • Technical Leadership
 
 ## 👨‍💻 About Me
 
-Senior Lead Software Engineer with 10+ years of experience in Mobile Application Development and 5+ years specializing in Flutter and Dart.
+Senior Lead Software Engineer with 10+ years of experience in Mobile Application Development and 6+ years specializing in Flutter and Dart.
 
 I enjoy designing secure, scalable, and maintainable enterprise mobile applications using Clean Architecture, BLoC, SOLID principles, and modern engineering practices.
 
@@ -19,7 +19,7 @@ Currently working on enterprise banking solutions while continuously exploring F
 ## 💼 Experience
 
 - 10+ Years in Mobile Application Development
-- 5+ Years building Enterprise Flutter Applications
+- 6+ Years building Enterprise Flutter Applications
 - Enterprise Banking
 - Insurance
 - Transportation
